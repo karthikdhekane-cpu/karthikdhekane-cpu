@@ -1,16 +1,51 @@
-## Hi there 👋
+\# Hi, I'm Karthik Dhekane 👋
 
-<!--
-**karthikdhekane-cpu/karthikdhekane-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final year CS Engineering student at KLE Institute of Technology, Hubli (VTU)
 
-Here are some ideas to get you started:
+🚀 Building real products with AI and Full Stack technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 Projects
+
+### CampBus — Smart College Transport System
+Full stack web app with real-time bus tracking, AI ETA, SOS alerts and multi-role dashboards
+**Tech:** Next.js 14 · TypeScript · React · Firebase · Mapbox GL · Tailwind CSS
+
+### EPIDIA — Cognitive Drone Intelligence Platform
+India's first cognitive intelligence platform for autonomous drones
+Selected for VTU × InUnity Preincubation Program
+**Tech:** Python · LSTM Neural Networks · Explainable AI · React Dashboard
+
+---
+
+## 🛠️ Skills
+
+**Languages:** JavaScript · Python · TypeScript · Java · HTML · CSS
+
+**Frontend:** React · Next.js · Tailwind CSS · Framer Motion
+
+**Backend:** Node.js · Firebase · REST APIs
+
+**Tools & Platforms:** Git · GitHub · VS Code · Cursor · Vercel
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Top 15 / 300+ teams — MakeForBelagavi × Titan × VTU Headquarters
+- 🚀 EPIDIA selected for VTU × InUnity Preincubation Program with assigned mentor
+- 📜 NPTEL Elite Certification — OOP from IIT Roorkee (85%)
+- ♟️ National Level Chess Participant
+- 🏐 Cluster Level Volleyball Player
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthik-dhekane-611344197)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthikdhekane@gmail.com)
+
+---
+
+*"Build boldly. Think deeply. Ship with purpose."*
